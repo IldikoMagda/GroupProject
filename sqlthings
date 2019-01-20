@@ -1,19 +1,10 @@
 
-
-
-
 select kinase_name, family, p.phosphosite_location, i.inhibitor_name
 
 from public.kinase as k
 
 inner join public.phosphosite as p on k.phosphosite = p.phosphosite_id
 inner join public.Inhibitor as i on k.inhibitor = i.inhibitor_id;
-
-
-
-
-
-
 
 
 -- INSERT SCripts
