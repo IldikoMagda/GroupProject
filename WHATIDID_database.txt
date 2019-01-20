@@ -1,0 +1,27 @@
+Setting up the environment:
+
+
+
+	-install postgreSQL globally on local computer 
+	
+	#switch to the account 
+	$ sudo -i -u postgres 
+	# access a Postgres prompt immediately by typing
+	$ psql 
+
+	#exit by
+	$ \q 
+
+
+	- instaledl Heroku postgres
+	 
+
+
+Created a Heroku account and Project to deploy the app and database 
+
+
+
+
+Installed PgAdmin 
+	visual interface to handle database 
+

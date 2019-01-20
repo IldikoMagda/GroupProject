@@ -1,0 +1,9 @@
+git init - git repo creation 
+.gitignore - =files 
+git status -- what was modified 
+git add -FILENAME  
+git add -A add all new files
+git commit -m  commit mindent amit hozzaadtal 
+git push - push to remote repository 
+## ssh lenne jobb when chose the remote repository 
+
